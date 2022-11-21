@@ -1,7 +1,9 @@
 # python-basics
 ![download](https://user-images.githubusercontent.com/93584971/203112789-0a7aac05-634e-4c4c-8905-c26ab223f0e1.png)
-This can be useful for any one who wants to start python from scratch and move to advanced level 
 
+
+
+This can be useful for any one who wants to start python from scratch and move to advanced level 
 
 Topics to be learned:
 

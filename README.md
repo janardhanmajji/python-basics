@@ -8,12 +8,21 @@ This can be useful for any one who wants to start python from scratch and move t
 Topics to be learned:
 
 
-| First Header  | Second Header |
+|S.No  | Topic Name |
 | ------------- | ------------- |
+| 1 | Introduction to python  |
+| 2  | Content Cell  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
-
-
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 1. Introduction to python
 2. Data types

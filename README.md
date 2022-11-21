@@ -1,4 +1,5 @@
 # python-basics
+![download](https://user-images.githubusercontent.com/93584971/203112789-0a7aac05-634e-4c4c-8905-c26ab223f0e1.png)
 This can be useful for any one who wants to start python from scratch and move to advanced level 
 
 
@@ -26,4 +27,4 @@ Topics to be learned:
 
 Iam going to start my learning journey on 23rd November 2022 and update everyday what i have learnt and what are the codes i had practised.
 
-![download](https://user-images.githubusercontent.com/93584971/203112789-0a7aac05-634e-4c4c-8905-c26ab223f0e1.png)
+
